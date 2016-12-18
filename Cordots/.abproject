@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Cordots",
+  "ProjectGuid": "7f2e6027-eb11-49e8-949e-6ecb51e2e226",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Cordots",
+  "DisplayName": "Cordots",
+  "Author": "",
+  "Description": "Cordots",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{faf95225-b825-4d17-be90-986be07396b6}",
+  "WP8ProductID": "{5bbb6dec-8bd9-4e54-a92b-fa82acc470f4}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Cordots",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
